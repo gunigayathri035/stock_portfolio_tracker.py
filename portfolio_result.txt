@@ -1,0 +1,7 @@
+STOCK PORTFOLIO TRACKER
+Date: 2026-09-20 19:20:43
+
+AAPL | Price: $180 | Quantity: 5 | Value: $900
+TSLA | Price: $250 | Quantity: 2 | Value: $500
+
+Total Investment Value: $1400
